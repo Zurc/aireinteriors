@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Casual Living
 cover_image: /images/casual.jpg
 ---
 
